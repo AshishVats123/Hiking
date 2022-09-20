@@ -58,8 +58,8 @@ ul{list-style: none;}
 nav{display: flex;justify-content: end;}
 nav ul{display: flex;justify-content: end;}
 nav ul li { font-size: 16px;padding: 20px 18px;line-height: 60px;font-size:18px;font-family:opb;color: #54554f;}
-nav ul li a{color: #54524f;}
-nav ul li a:hover{background-color: #c3bfbc;border-radius: 20px;padding: 5px;}
+nav ul li a{color: #54524f;padding: 3px;}
+nav ul li a:hover{background-color: #c3bfbc;border-radius: 20px;}
 nav .openmenu{font-size: 32px;margin: 20px;display: none;cursor:pointer;}
 nav .closemenu ,.icons i{font-size: 32px;display: none;cursor: pointer;}
 .fa-facebook:hover{color: rgb(0, 110, 255);}
